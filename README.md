@@ -1,4 +1,4 @@
-# TSOF-A01-Projeto-Bhaskara
+# Projeto Bhaskara
 
 ## Sobre
 
