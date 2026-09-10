@@ -1,0 +1,14 @@
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\bin\Debug\net10.0\BhaskaraApp.exe
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\bin\Debug\net10.0\BhaskaraApp.deps.json
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\bin\Debug\net10.0\BhaskaraApp.runtimeconfig.json
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\bin\Debug\net10.0\BhaskaraApp.dll
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\bin\Debug\net10.0\BhaskaraApp.pdb
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\obj\Debug\net10.0\BhaskaraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\obj\Debug\net10.0\BhaskaraApp.AssemblyInfoInputs.cache
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\obj\Debug\net10.0\BhaskaraApp.AssemblyInfo.cs
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\obj\Debug\net10.0\BhaskaraApp.csproj.CoreCompileInputs.cache
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\obj\Debug\net10.0\BhaskaraApp.dll
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\obj\Debug\net10.0\refint\BhaskaraApp.dll
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\obj\Debug\net10.0\BhaskaraApp.pdb
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\obj\Debug\net10.0\BhaskaraApp.genruntimeconfig.cache
+C:\Users\41963209885\Desktop\terceirão\Sérgio\TSOF-A01-Projeto-Bhaskara-master\BhaskaraApp\obj\Debug\net10.0\ref\BhaskaraApp.dll

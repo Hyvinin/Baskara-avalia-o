@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.9.12112.369 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BhaskaraApp", "BhaskaraApp\BhaskaraApp.csproj", "{0DAF15F3-D9C8-48F4-B1E2-872253329F4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BhaskaraUnitTest", "BhaskaraTest\BhaskaraUnitTest.csproj", "{4D35F5BA-ACC1-45E0-BA77-FBD31536C1E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DAF15F3-D9C8-48F4-B1E2-872253329F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAF15F3-D9C8-48F4-B1E2-872253329F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAF15F3-D9C8-48F4-B1E2-872253329F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAF15F3-D9C8-48F4-B1E2-872253329F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D35F5BA-ACC1-45E0-BA77-FBD31536C1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D35F5BA-ACC1-45E0-BA77-FBD31536C1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D35F5BA-ACC1-45E0-BA77-FBD31536C1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D35F5BA-ACC1-45E0-BA77-FBD31536C1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {911001F9-13BD-4EC8-A284-9660E183CFA1}
+	EndGlobalSection
+EndGlobal
